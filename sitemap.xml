@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/04/05/2015-04-05-Lookup-on-Page/</loc>
-    
-    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2014/02/23/2014-02-23-hello-world/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
@@ -30,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
+    <loc>http://yoursite.com/2015/04/05/2015-04-05-Lookup-on-Page/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
@@ -44,6 +37,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/2016/01/02/2016-01-02-Notes-On-Creating-A-Hexo-Theme/</loc>
+    
+    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/05/02/2015-05-02-How-To-Impress/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/01/02/2016-01-02-Notes-On-Creating-A-Hexo-Theme/</loc>
+    <loc>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
