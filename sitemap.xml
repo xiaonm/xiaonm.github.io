@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
+    
+    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2014/02/23/2014-02-23-hello-world/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
@@ -23,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
+    <loc>http://yoursite.com/2015/04/08/2015-04-08-NAV-Programming-Resources/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
@@ -31,13 +38,6 @@
   
   <url>
     <loc>http://yoursite.com/2015/04/05/2015-04-05-Lookup-on-Page/</loc>
-    
-    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2015/04/08/2015-04-08-NAV-Programming-Resources/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/contact/index.html</loc>
+    <loc>http://yoursite.com/index.html</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/index.html</loc>
+    <loc>http://yoursite.com/contact/index.html</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
