@@ -2,9 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Mysql/index.html</loc>
+    
+    <lastmod>2018-10-31T03:53:30.541Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/jenkins/index.html</loc>
+    
+    <lastmod>2018-10-31T03:50:34.982Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/nginx/index.html</loc>
+    
+    <lastmod>2018-10-31T03:50:23.476Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docker/index.html</loc>
+    
+    <lastmod>2018-10-31T03:42:27.153Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dayoushi/index.html</loc>
+    
+    <lastmod>2018-10-30T13:55:33.153Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/suibi/index.html</loc>
+    
+    <lastmod>2018-10-30T13:55:21.371Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/archives/index.html</loc>
+    
+    <lastmod>2018-10-30T13:29:56.744Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-10-30T13:22:49.147Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/docs/index.html</loc>
     
-    <lastmod>2018-10-30T09:38:59.993Z</lastmod>
+    <lastmod>2018-10-30T13:06:05.737Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Linux/index.html</loc>
+    
+    <lastmod>2018-10-30T13:05:47.102Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2018-10-30T13:04:41.234Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2018-10-30T12:25:07.541Z</lastmod>
     
   </url>
   
@@ -23,20 +100,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/04/05/2015-04-05-Lookup-on-Page/</loc>
-    
-    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
-    
-    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2015/03/23/2015-03-23-Make-VS-Insert-Spaces/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
@@ -44,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/04/08/2015-04-08-NAV-Programming-Resources/</loc>
+    <loc>http://yoursite.com/2015/04/05/2015-04-05-Lookup-on-Page/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
@@ -58,7 +121,21 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
+    
+    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/01/02/2016-01-02-Notes-On-Creating-A-Hexo-Theme/</loc>
+    
+    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2015/04/08/2015-04-08-NAV-Programming-Resources/</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
@@ -87,13 +164,6 @@
   
   <url>
     <loc>http://yoursite.com/login/index.html</loc>
-    
-    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
