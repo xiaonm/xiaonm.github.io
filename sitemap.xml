@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaomaoshu.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-11-01T12:25:31.304Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaomaoshu.github.io/suibi/index.html</loc>
+    
+    <lastmod>2018-11-01T12:25:17.902Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaomaoshu.github.io/docs/index.html</loc>
+    
+    <lastmod>2018-11-01T12:24:56.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaomaoshu.github.io/categories/index.html</loc>
+    
+    <lastmod>2018-11-01T12:24:10.040Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaomaoshu.github.io/about/index.html</loc>
+    
+    <lastmod>2018-11-01T12:22:39.990Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/</loc>
     
     <lastmod>2018-10-31T07:47:50.641Z</lastmod>
@@ -12,20 +47,6 @@
     <loc>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
     
     <lastmod>2018-10-31T07:42:45.073Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/tags/index.html</loc>
-    
-    <lastmod>2018-10-31T06:19:27.611Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/categories/index.html</loc>
-    
-    <lastmod>2018-10-31T06:16:25.364Z</lastmod>
     
   </url>
   
@@ -65,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://xiaomaoshu.github.io/suibi/index.html</loc>
-    
-    <lastmod>2018-10-30T13:55:21.371Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xiaomaoshu.github.io/archives/index.html</loc>
     
     <lastmod>2018-10-30T13:29:56.744Z</lastmod>
@@ -79,23 +93,9 @@
   </url>
   
   <url>
-    <loc>https://xiaomaoshu.github.io/docs/index.html</loc>
-    
-    <lastmod>2018-10-30T13:06:05.737Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xiaomaoshu.github.io/Linux/index.html</loc>
     
     <lastmod>2018-10-30T13:05:47.102Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/about/index.html</loc>
-    
-    <lastmod>2018-10-30T13:04:41.234Z</lastmod>
     
   </url>
   

@@ -2062,7 +2062,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff6;
+  background: #b08bff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3406,6 +3406,16 @@ img:hover {
   background: #fc6423;
   border-bottom: none;
   border-bottom: 1px solid #fff;
+}
+.menu .menu-item:hover {
+  background: #f4a33a;
+}
+.links-of-author-item a {
+  display: block;
+  color: #c0ac91;
+}
+.links-of-author-item a:hover {
+  color: #fc6423;
 }
 .btn {
   color: #49b1f5;
