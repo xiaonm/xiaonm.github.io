@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://xiaomaoshu.github.io/"/>
   <updated>2018-10-31T07:47:50.641Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://xiaomaoshu.github.io/</id>
   
   <author>
     <name>小猫叔</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>NGINX基础命令</title>
-    <link href="http://yoursite.com/2015/04/01/2015-04-01-Linux-commnd/"/>
-    <id>http://yoursite.com/2015/04/01/2015-04-01-Linux-commnd/</id>
+    <link href="https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/"/>
+    <id>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/</id>
     <published>2015-03-31T16:00:00.000Z</published>
     <updated>2018-10-31T07:47:50.641Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="Web Development" scheme="http://yoursite.com/tags/Web-Development/"/>
+      <category term="Web Development" scheme="https://xiaomaoshu.github.io/tags/Web-Development/"/>
     
   </entry>
   
   <entry>
     <title>NGINX基础入门</title>
-    <link href="http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/"/>
-    <id>http://yoursite.com/2015/04/01/2015-04-01-NGINX-Static-Locations/</id>
+    <link href="https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/"/>
+    <id>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/</id>
     <published>2015-03-31T16:00:00.000Z</published>
     <updated>2018-10-31T07:42:45.073Z</updated>
     
@@ -57,10 +57,10 @@
     
     </summary>
     
-      <category term="NGINX" scheme="http://yoursite.com/categories/NGINX/"/>
+      <category term="NGINX" scheme="https://xiaomaoshu.github.io/categories/NGINX/"/>
     
     
-      <category term="Web Development" scheme="http://yoursite.com/tags/Web-Development/"/>
+      <category term="Web Development" scheme="https://xiaomaoshu.github.io/tags/Web-Development/"/>
     
   </entry>
   
