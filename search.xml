@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title>我的童年</title>
+      <link href="/2018/11/01/%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/"/>
+      <url>/2018/11/01/%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/</url>
+      
+        <content type="html"><![CDATA[<p>我的家乡是一个小山村；人口掐指可数；四面环山，树林层层环绕。一条清澈的小溪旁村蜿蜒而过，是村里唯一的母亲河。家乡给我的感觉始终是蓝天如洗，白云滚滚，满山遍野郁郁葱葱。小河流水哗啦啦。村东榆坡上的寒松林的风声总是伴随着鸟鸣蝉吟从不间断；各式各样的蝴蝶、蜻蜓遍布山谷，色彩斑斓好看的很。一切的一切都好像是大自然的完美结合，仿佛沉浸于诗情画意当中。从而缔造了一代代像我一样天真可爱的小孩子，同时也给我们带了了无限童趣好玩的地方。</p><p>我家大门口放置了很多大石头。也许、可能、大概是爸爸年轻时修建房屋和棚屋的所剩。这些看似不起眼的大石头却无意中寄托了我儿时很多美好的回忆，那个时候我还很小。夕阳西下，勤劳的人们从田地里归来，门口的石头上就陆陆续续的有人们在歇息聊天。不知道为什么吗，黄昏总是太短暂。很快夜幕降临。等到街上玩耍着的孩子们的打闹声渐尽，家门口的大石头就成了人们的天堂。忙碌了一天的人们也许只有这个时候才叫真正意义上的放松。坐下来聊天，喝茶。可以什么都去想，也可以什么都不想。</p><p>夏夜的炎热憋闷促使人们走出家门聚集在这里吃饭，乘凉聊天。在农村夜总是很静，天空中繁星闪闪，流星时时划破天空飘落。四周黑山幽幽，我总是很害怕。不远处小河水咕咚咕咚的流淌着，声音清脆悦耳。河水里和不知躲在哪里的青蛙王子们呱呱呱的叫声映衬着蟋蟀吱吱吱的吟鸣生层出不穷，此起彼伏、八方听闻。我总是坐在爸爸和妈妈身边耐心的听着人们谈天说地，笑语欢声。邻居们也经常逗我玩寻开心。现在想起来也仍不住表无神色的发笑，，，，。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Essay </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Essay </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>NGINX基础命令</title>
       <link href="/2015/04/01/2015-04-01-Linux-commnd/"/>
       <url>/2015/04/01/2015-04-01-Linux-commnd/</url>
@@ -10,10 +33,16 @@
         <content type="html"><![CDATA[<p>I try to get a lot of mileage out of the single AWS t2.micro instance I keep running,<br>which means I have many different projects running on different paths on a single server.  Everytime I finish a project, I have to relearn how to add new “locations” (paths) to the NGINX virtual host.</p><p>I was really frustrated when I couldn’t figure out how to add a static location for the Jekyll<br>website I created for the game I’m developing.  I kept trying to do something like this:</p><pre><code>location / {  root /home/ubuntu/personal-website;}location /array {  root /home/ubuntu/array-website/_site;}</code></pre><p>But everytime I tried to visit [<a href="http://ptsteadman.com/array]" target="_blank" rel="noopener">http://ptsteadman.com/array]</a>, I would get a 404 error.<br>I tried a bunch of things: I changed the “root” of the the <code>/</code> location to my game website, and it worked.  But no matter what I did, after using <code>sudo service nginx restart</code>,<br>trying to visit the <code>/array</code> location still resulted in a 404.  I couldn’t add the new route/location.</p><p>Eventually, I realized that the text after the slash in the location is the directory that<br>NGINX will try to find in the “root” location.  So, <code>location /array</code> will look for the directory (or file)<br><code>array</code> in whatever directory “root” is set to.  So, I created a symlink to the root of my<br>static jekyll site with the command <code>ln -s /home/ubuntu/array-website/_site /home/ubuntu/array</code>, and<br>then I could set up my nginx config file in <code>sites-enabled</code> as below:</p><pre><code>location / {  root /home/ubuntu/personal-website;}location /array {  root /home/ubuntu;}</code></pre><p>I think this stuff is all pretty obvious to someone who really understands NGINX and file serving,<br>but I only touch NGINX when I’ve finished a project and feel impatient to deploy.  I think it’s very confusing<br>that NGINX seems to handle paths differently between <code>/</code> locations and and <code>/foo</code> locations,<br>but a real understanding of NGINX might clear things up.</p>]]></content>
       
       
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> Web Development </tag>
+            <tag> Linux </tag>
             
         </tags>
       
@@ -29,14 +58,14 @@
       
       <categories>
           
-          <category> NGINX </category>
+          <category> Docs </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Web Development </tag>
+            <tag> Docs </tag>
             
         </tags>
       

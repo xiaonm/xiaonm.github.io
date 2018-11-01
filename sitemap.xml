@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
+    
+    <lastmod>2018-11-01T14:35:41.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/</loc>
+    
+    <lastmod>2018-11-01T14:33:29.227Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaomaoshu.github.io/2018/11/01/%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/</loc>
+    
+    <lastmod>2018-11-01T14:32:01.595Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xiaomaoshu.github.io/tags/index.html</loc>
     
     <lastmod>2018-11-01T12:25:31.304Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/suibi/index.html</loc>
-    
-    <lastmod>2018-11-01T12:25:17.902Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/docs/index.html</loc>
-    
-    <lastmod>2018-11-01T12:24:56.574Z</lastmod>
     
   </url>
   
@@ -37,65 +44,9 @@
   </url>
   
   <url>
-    <loc>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/</loc>
-    
-    <lastmod>2018-10-31T07:47:50.641Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/</loc>
-    
-    <lastmod>2018-10-31T07:42:45.073Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/Mysql/index.html</loc>
-    
-    <lastmod>2018-10-31T03:53:30.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/jenkins/index.html</loc>
-    
-    <lastmod>2018-10-31T03:50:34.982Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/nginx/index.html</loc>
-    
-    <lastmod>2018-10-31T03:50:23.476Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/docker/index.html</loc>
-    
-    <lastmod>2018-10-31T03:42:27.153Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/dayoushi/index.html</loc>
-    
-    <lastmod>2018-10-30T13:55:33.153Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xiaomaoshu.github.io/archives/index.html</loc>
     
     <lastmod>2018-10-30T13:29:56.744Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/Linux/index.html</loc>
-    
-    <lastmod>2018-10-30T13:05:47.102Z</lastmod>
     
   </url>
   
@@ -115,13 +66,6 @@
   
   <url>
     <loc>https://xiaomaoshu.github.io/contact/index.html</loc>
-    
-    <lastmod>2016-04-26T13:44:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xiaomaoshu.github.io/login/index.html</loc>
     
     <lastmod>2016-04-26T13:44:54.000Z</lastmod>
     
