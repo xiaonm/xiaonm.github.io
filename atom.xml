@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://xiaomaoshu.github.io/"/>
-  <updated>2018-11-02T06:02:56.655Z</updated>
-  <id>https://xiaomaoshu.github.io/</id>
+  <link href="https://xiaoms.github.io/"/>
+  <updated>2018-11-02T10:01:15.925Z</updated>
+  <id>https://xiaoms.github.io/</id>
   
   <author>
     <name>小猫叔</name>
@@ -17,9 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://xiaoms.github.io/2018/11/02/hello-world/"/>
+    <id>https://xiaoms.github.io/2018/11/02/hello-world/</id>
+    <published>2018-11-02T10:01:15.925Z</published>
+    <updated>2018-11-02T10:01:15.925Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>梦里花落知多少</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E6%A2%A6%E9%87%8C%E8%8A%B1%E8%90%BD%E7%9F%A5%E5%A4%9A%E5%B0%91/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/梦里花落知多少/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E6%A2%A6%E9%87%8C%E8%8A%B1%E8%90%BD%E7%9F%A5%E5%A4%9A%E5%B0%91/"/>
+    <id>https://xiaoms.github.io/2018/11/02/梦里花落知多少/</id>
     <published>2018-11-02T06:02:29.000Z</published>
     <updated>2018-11-02T06:02:56.655Z</updated>
     
@@ -34,17 +55,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>四季人生</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E5%9B%9B%E5%AD%A3%E4%BA%BA%E7%94%9F/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/四季人生/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E5%9B%9B%E5%AD%A3%E4%BA%BA%E7%94%9F/"/>
+    <id>https://xiaoms.github.io/2018/11/02/四季人生/</id>
     <published>2018-11-02T06:00:48.000Z</published>
     <updated>2018-11-02T06:01:19.977Z</updated>
     
@@ -59,17 +80,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>媛媛</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E5%AA%9B%E5%AA%9B/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/媛媛/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E5%AA%9B%E5%AA%9B/"/>
+    <id>https://xiaoms.github.io/2018/11/02/媛媛/</id>
     <published>2018-11-02T05:57:37.000Z</published>
     <updated>2018-11-02T05:59:20.792Z</updated>
     
@@ -90,17 +111,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>我是唐僧</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E6%88%91%E6%98%AF%E5%94%90%E5%83%A7/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/我是唐僧/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E6%88%91%E6%98%AF%E5%94%90%E5%83%A7/"/>
+    <id>https://xiaoms.github.io/2018/11/02/我是唐僧/</id>
     <published>2018-11-02T05:55:07.000Z</published>
     <updated>2018-11-02T05:55:48.559Z</updated>
     
@@ -121,17 +142,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>昨夜小思</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E6%98%A8%E5%A4%9C%E5%B0%8F%E6%80%9D/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/昨夜小思/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E6%98%A8%E5%A4%9C%E5%B0%8F%E6%80%9D/"/>
+    <id>https://xiaoms.github.io/2018/11/02/昨夜小思/</id>
     <published>2018-11-02T05:52:01.000Z</published>
     <updated>2018-11-02T05:52:32.487Z</updated>
     
@@ -146,17 +167,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>想念妈妈</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E6%83%B3%E5%BF%B5%E5%A6%88%E5%A6%88/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/想念妈妈/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E6%83%B3%E5%BF%B5%E5%A6%88%E5%A6%88/"/>
+    <id>https://xiaoms.github.io/2018/11/02/想念妈妈/</id>
     <published>2018-11-02T05:49:40.000Z</published>
     <updated>2018-11-02T05:56:04.664Z</updated>
     
@@ -171,17 +192,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>若有来世,再续前缘</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E8%8B%A5%E6%9C%89%E6%9D%A5%E4%B8%96-%E5%86%8D%E7%BB%AD%E5%89%8D%E7%BC%98/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/若有来世-再续前缘/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E8%8B%A5%E6%9C%89%E6%9D%A5%E4%B8%96-%E5%86%8D%E7%BB%AD%E5%89%8D%E7%BC%98/"/>
+    <id>https://xiaoms.github.io/2018/11/02/若有来世-再续前缘/</id>
     <published>2018-11-02T05:42:12.000Z</published>
     <updated>2018-11-02T05:48:34.879Z</updated>
     
@@ -196,17 +217,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>CentOS 7.2 下安装部署 LAMP 详解</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/CentOS-7-2-%E4%B8%8B%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2-LAMP-%E8%AF%A6%E8%A7%A3/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/CentOS-7-2-下安装部署-LAMP-详解/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/CentOS-7-2-%E4%B8%8B%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2-LAMP-%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://xiaoms.github.io/2018/11/02/CentOS-7-2-下安装部署-LAMP-详解/</id>
     <published>2018-11-02T05:38:13.000Z</published>
     <updated>2018-11-02T05:40:08.098Z</updated>
     
@@ -221,17 +242,17 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://xiaomaoshu.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="https://xiaoms.github.io/categories/Linux/"/>
     
     
-      <category term="Linux,LAMP" scheme="https://xiaomaoshu.github.io/tags/Linux-LAMP/"/>
+      <category term="Linux,LAMP" scheme="https://xiaoms.github.io/tags/Linux-LAMP/"/>
     
   </entry>
   
   <entry>
     <title>使用阿里云镜像源安装Docker</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/02/%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E9%95%9C%E5%83%8F%E6%BA%90%E5%AE%89%E8%A3%85Docker/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/02/使用阿里云镜像源安装Docker/</id>
+    <link href="https://xiaoms.github.io/2018/11/02/%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E9%95%9C%E5%83%8F%E6%BA%90%E5%AE%89%E8%A3%85Docker/"/>
+    <id>https://xiaoms.github.io/2018/11/02/使用阿里云镜像源安装Docker/</id>
     <published>2018-11-02T05:33:22.000Z</published>
     <updated>2018-11-02T05:34:50.637Z</updated>
     
@@ -247,17 +268,17 @@
     
     </summary>
     
-      <category term="Docker" scheme="https://xiaomaoshu.github.io/categories/Docker/"/>
+      <category term="Docker" scheme="https://xiaoms.github.io/categories/Docker/"/>
     
     
-      <category term="Docker" scheme="https://xiaomaoshu.github.io/tags/Docker/"/>
+      <category term="Docker" scheme="https://xiaoms.github.io/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>我的童年</title>
-    <link href="https://xiaomaoshu.github.io/2018/11/01/%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/"/>
-    <id>https://xiaomaoshu.github.io/2018/11/01/我的童年/</id>
+    <link href="https://xiaoms.github.io/2018/11/01/%E6%88%91%E7%9A%84%E7%AB%A5%E5%B9%B4/"/>
+    <id>https://xiaoms.github.io/2018/11/01/我的童年/</id>
     <published>2018-11-01T13:25:18.000Z</published>
     <updated>2018-11-02T06:24:06.055Z</updated>
     
@@ -272,42 +293,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/categories/Essay/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/categories/Essay/"/>
     
     
-      <category term="Essay" scheme="https://xiaomaoshu.github.io/tags/Essay/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>NGINX基础命令</title>
-    <link href="https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/"/>
-    <id>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-Linux-commnd/</id>
-    <published>2015-03-31T16:00:00.000Z</published>
-    <updated>2018-11-01T14:33:29.227Z</updated>
-    
-    <content type="html"><![CDATA[<p>I try to get a lot of mileage out of the single AWS t2.micro instance I keep running,<br>which means I have many different projects running on different paths on a single server.  Everytime I finish a project, I have to relearn how to add new “locations” (paths) to the NGINX virtual host.</p><p>I was really frustrated when I couldn’t figure out how to add a static location for the Jekyll<br>website I created for the game I’m developing.  I kept trying to do something like this:</p><pre><code>location / {  root /home/ubuntu/personal-website;}location /array {  root /home/ubuntu/array-website/_site;}</code></pre><p>But everytime I tried to visit [<a href="http://ptsteadman.com/array]" target="_blank" rel="noopener">http://ptsteadman.com/array]</a>, I would get a 404 error.<br>I tried a bunch of things: I changed the “root” of the the <code>/</code> location to my game website, and it worked.  But no matter what I did, after using <code>sudo service nginx restart</code>,<br>trying to visit the <code>/array</code> location still resulted in a 404.  I couldn’t add the new route/location.</p><p>Eventually, I realized that the text after the slash in the location is the directory that<br>NGINX will try to find in the “root” location.  So, <code>location /array</code> will look for the directory (or file)<br><code>array</code> in whatever directory “root” is set to.  So, I created a symlink to the root of my<br>static jekyll site with the command <code>ln -s /home/ubuntu/array-website/_site /home/ubuntu/array</code>, and<br>then I could set up my nginx config file in <code>sites-enabled</code> as below:</p><pre><code>location / {  root /home/ubuntu/personal-website;}location /array {  root /home/ubuntu;}</code></pre><p>I think this stuff is all pretty obvious to someone who really understands NGINX and file serving,<br>but I only touch NGINX when I’ve finished a project and feel impatient to deploy.  I think it’s very confusing<br>that NGINX seems to handle paths differently between <code>/</code> locations and and <code>/foo</code> locations,<br>but a real understanding of NGINX might clear things up.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;I try to get a lot of mileage out of the single AWS t2.micro instance I keep running,&lt;br&gt;which means I have many different projects runni
-      
-    
-    </summary>
-    
-      <category term="Linux" scheme="https://xiaomaoshu.github.io/categories/Linux/"/>
-    
-    
-      <category term="Linux" scheme="https://xiaomaoshu.github.io/tags/Linux/"/>
+      <category term="Essay" scheme="https://xiaoms.github.io/tags/Essay/"/>
     
   </entry>
   
   <entry>
     <title>NGINX基础入门</title>
-    <link href="https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/"/>
-    <id>https://xiaomaoshu.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/</id>
+    <link href="https://xiaoms.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/"/>
+    <id>https://xiaoms.github.io/2015/04/01/2015-04-01-NGINX-Static-Locations/</id>
     <published>2015-03-31T16:00:00.000Z</published>
     <updated>2018-11-02T04:53:01.460Z</updated>
     
@@ -322,10 +318,35 @@
     
     </summary>
     
-      <category term="Docs" scheme="https://xiaomaoshu.github.io/categories/Docs/"/>
+      <category term="Docs" scheme="https://xiaoms.github.io/categories/Docs/"/>
     
     
-      <category term="Docs" scheme="https://xiaomaoshu.github.io/tags/Docs/"/>
+      <category term="Docs" scheme="https://xiaoms.github.io/tags/Docs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NGINX基础命令</title>
+    <link href="https://xiaoms.github.io/2015/04/01/2015-04-01-Linux-commnd/"/>
+    <id>https://xiaoms.github.io/2015/04/01/2015-04-01-Linux-commnd/</id>
+    <published>2015-03-31T16:00:00.000Z</published>
+    <updated>2018-11-01T14:33:29.227Z</updated>
+    
+    <content type="html"><![CDATA[<p>I try to get a lot of mileage out of the single AWS t2.micro instance I keep running,<br>which means I have many different projects running on different paths on a single server.  Everytime I finish a project, I have to relearn how to add new “locations” (paths) to the NGINX virtual host.</p><p>I was really frustrated when I couldn’t figure out how to add a static location for the Jekyll<br>website I created for the game I’m developing.  I kept trying to do something like this:</p><pre><code>location / {  root /home/ubuntu/personal-website;}location /array {  root /home/ubuntu/array-website/_site;}</code></pre><p>But everytime I tried to visit [<a href="http://ptsteadman.com/array]" target="_blank" rel="noopener">http://ptsteadman.com/array]</a>, I would get a 404 error.<br>I tried a bunch of things: I changed the “root” of the the <code>/</code> location to my game website, and it worked.  But no matter what I did, after using <code>sudo service nginx restart</code>,<br>trying to visit the <code>/array</code> location still resulted in a 404.  I couldn’t add the new route/location.</p><p>Eventually, I realized that the text after the slash in the location is the directory that<br>NGINX will try to find in the “root” location.  So, <code>location /array</code> will look for the directory (or file)<br><code>array</code> in whatever directory “root” is set to.  So, I created a symlink to the root of my<br>static jekyll site with the command <code>ln -s /home/ubuntu/array-website/_site /home/ubuntu/array</code>, and<br>then I could set up my nginx config file in <code>sites-enabled</code> as below:</p><pre><code>location / {  root /home/ubuntu/personal-website;}location /array {  root /home/ubuntu;}</code></pre><p>I think this stuff is all pretty obvious to someone who really understands NGINX and file serving,<br>but I only touch NGINX when I’ve finished a project and feel impatient to deploy.  I think it’s very confusing<br>that NGINX seems to handle paths differently between <code>/</code> locations and and <code>/foo</code> locations,<br>but a real understanding of NGINX might clear things up.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I try to get a lot of mileage out of the single AWS t2.micro instance I keep running,&lt;br&gt;which means I have many different projects runni
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://xiaoms.github.io/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://xiaoms.github.io/tags/Linux/"/>
     
   </entry>
   
